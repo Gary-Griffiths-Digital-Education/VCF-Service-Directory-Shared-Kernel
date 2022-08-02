@@ -1,1 +1,1 @@
-# VCF-Service-Directory-Shared-Kernel
+# vcf-service-directory-shared-Kernel
